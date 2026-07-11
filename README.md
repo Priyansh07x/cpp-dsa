@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="C++ Data Structures & Algorithms Banner" width="100%">
+</p>
 # C++ Data Structures & Algorithms
 
 ![Language](https://img.shields.io/badge/Language-C++-blue)
